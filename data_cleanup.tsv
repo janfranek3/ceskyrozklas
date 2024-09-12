@@ -30,3 +30,27 @@ jbc	Item4	bhoj	eho
 jbc		choj	bho
 jbc	Item5	choj	bho
 kbc		dhoj	dho
+cbc		ahojk	aho
+dbc	Item0	ahojk	aho
+dbc		bhojk	bho
+dbc	Item1	dhojk	dho
+dbc	Item2	ehojk	eho
+dbc		ahojk	aho
+dbc		bhojk	bho
+ebc		bhojk	bho
+ebc		chojk	cho
+ebc	Item1	dhojk	dho
+ebc	Item2	ehojk	eho
+fbc		bhojk	bho
+gbc	Item1	dhojk	dho
+gbc	Item2	ehojk	eho
+hbc		ahojk	aho
+hbc		bhojk	bho
+hbc		chojk	bho
+ibc	Item1	ahojk	dho
+jbc	Item2	bhojk	eho
+jbc	Item3	ahojk	dho
+jbc	Item4	bhojk	eho
+jbc		chojk	bho
+jbc	Item5	chojk	bho
+kbc		dhojk	dho
